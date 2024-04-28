@@ -1,16 +1,7 @@
-# meet
+This innovative application, developed using Flutter for the frontend and Python API for backend support, serves as a bridge between spoken language and sign language, enhancing communication accessibility for the hearing impaired community:
 
-A new Flutter project.
+1. Speech-to-Sign-Language Conversion: Leveraging advanced machine learning algorithms and sign language recognition technology, the app converts spoken language into sign language gestures in real-time. This feature empowers users to communicate effectively with individuals proficient in sign language.
 
-## Getting Started
+2. Speech Recognition: The app also integrates speech recognition functionality, enabling it to accurately transcribe spoken words into text. This feature facilitates seamless communication between individuals who are hearing impaired and those who use spoken language.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+3. Video Conversion from Text: Additionally, the application offers a unique feature that converts text into video format. Users can input text, and the app generates a corresponding video presentation, enhancing the accessibility and visual representation of textual information.
